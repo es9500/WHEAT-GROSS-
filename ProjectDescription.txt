@@ -1,0 +1,66 @@
+Fill out this document that describes the project you are going to work on for showcase See the other examples below:
+
+Project description (couple sentences describing the project):  
+
+People working on the project:
+
+What do you need for the project(help getting started/resources/materials to build):
+
+Task to be completed(with intially assigned person):
+
+
+
+====================================================================================
+Unity Tutorials:
+https://www.youtube.com/watch?v=jTtCsOjNwJQ   (2D)
+https://learn.unity.com/tutorial/introduction-to-roll-a-ball?projectId=5c51479fedbc2a001fd5bb9f# (Basic 3D tutorial on using unity)
+https://www.youtube.com/watch?v=mbm9lPB5GPw&list=PLbghT7MmckI4su9oKnoLuoRYLUvKlek7j&index=1 (3D first person -to do after the Basic 3D if making a first person game)
+
+
+Example1 (you can delete these if you want):
+Project description (couple sentences describing the project): I plan on making an automactic nerf gun turret.  
+The turret will use a camera to find a target and should shoot at the target. Similar to https://create.arduino.cc/projecthub/gatoninja236/autonomous-nerf-sentry-turret-238785 
+
+People working on the project:  Bob Smith
+
+What do you need for the project(help getting started/resources/materials to build):
+Help with understanding electronics/learning to solder.
+-Camera
+-Pi/Arduino to control everything
+-motors/servos to move the nerf gun
+-nerf gun
+-distance sensor
+
+Task to be completed(with intially assigned person): (all by me)
+1.) pick out parts
+2.) get arduno to control motors
+3.) assemble physical turret.
+3b.) get ardunio to control distance sensor
+4.) create test code for all of the parts without camera
+5.)get camera to work
+6.) incorporate it all together
+======================================================================================
+Example2 (you can delete these if you want):
+Project description (couple sentences describing the project): We plan on remaking Elevator Action using Unity.
+
+People working on the project:  Bob Smith, Jane Doe
+
+What do you need for the project(help getting started/resources/materials to build):
+-Unity installed on the computers
+Unity Tutorials we plan on using:
+https://www.youtube.com/watch?v=jTtCsOjNwJQ   (2D)
+https://www.youtube.com/watch?v=mbm9lPB5GPw&list=PLbghT7MmckI4su9oKnoLuoRYLUvKlek7j&index=1 
+
+Task to be completed(with intially assigned person): 
+1.) Unity tutorial to get familiar with how to do stuff with Unity (both)
+2.) Create Repository and Main Scene to start from (Bob)
+3.) Create Player Asset and script for basic player movement and jumping. (Jane)
+4.) Create enemy Asset and scripts for basic AI movement (Bob)
+5.) Create Elevator Asset and Scripts for movement(Jane)
+6.) Escalator Assets & scripts? (Bob)
+7.) Door Assets & scripts? (Bob)
+8.) Level Design (whoever is done first)
+9.) Title and menu screens (whoever is done first)
+10.) High Score system (whoever is done first)
+11.) alarm setting, aka anticamping feature  (whoever is done first)
+12.) Enemy difficulties.(whoever is done first)
