@@ -1,12 +1,12 @@
 Fill out this document that describes the project you are going to work on for showcase See the other examples below:
 
-Project description (couple sentences describing the project):  
+Project description (couple sentences describing the project): I plan on making a player vs. player boss rush with basic RPG elements and the ability to quote Monty Python and the Holy Grail 
 
-People working on the project:
+People working on the project: Alex Lamb, Xander Armstrong, more names to come (hopefully)
 
-What do you need for the project(help getting started/resources/materials to build):
+What do you need for the project(help getting started/resources/materials to build): To Be Determined
 
-Task to be completed(with intially assigned person):
+Task to be completed(with intially assigned person): TBD
 
 
 
