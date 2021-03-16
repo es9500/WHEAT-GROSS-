@@ -1,9 +1,9 @@
 Tuesday, March 16, 2021
-Alex:
-
-
-
-
+Alex: Well, I made some progress on the Unity tutorial, and then got set back. Again. This time it was not only a reset 
+of the files, it was some sort of mistake in the code! So now I have to rebuild the file and follow exactly what happened in the video
+and hope it works. At least assistance was offered, and I hope I won't have to make use of it, but at least I have a fallback if need
+be. I'm not sure learning 3rd dimensional right off the bat was a good call, but I've made my choice, and I'll stick with it. I 
+actually wonder if Xander and Evan can see this.
 
 
 
