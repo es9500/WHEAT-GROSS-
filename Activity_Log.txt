@@ -11,7 +11,12 @@ Alright, after due consideration, I've decided to work with 2D Unity for a few r
 that I'm now legitimately considering. At any rate, I gotta tell the group before anything even begins, and something tells me that I won't be able to reach them Wednesdays.
 So unfortunately, nothing will get done today. There are installs I need to work and they aren't here. Gotta remember to bring this in.
 
-
+Thursday, March 18, 2021
+Well, today is the day. We start a new game. Only because Unity 3D hates my guts and I hate it with every digit of my body. Evan
+wants to recreate a game called "Shrek-Kart". I'm a little hesitant, but a project is a project and at this rate the less we have
+to think about the better. Even though we'll continue into next year, at least we'll have something to improve on. Honestly, I
+think I was in over my head starting the first one. Perhaps instead of watching and following tutorials, I just wing it and see
+what happens. Like a calculator, but with C# and a bunch of projectiles.
 
 
 Evan:
