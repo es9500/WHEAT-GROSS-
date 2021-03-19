@@ -18,6 +18,13 @@ to think about the better. Even though we'll continue into next year, at least w
 think I was in over my head starting the first one. Perhaps instead of watching and following tutorials, I just wing it and see
 what happens. Like a calculator, but with C# and a bunch of projectiles.
 
+Friday, March 19, 2021
+I found scripting tutorials for C#. Future me will be grateful for this while past me looks up from the mess and muck in anger
+and disgust, cursing present me's name. So I'll be working on these tutorials for quite some time. Not entirely sure how long,
+but it'll be long enough to figure out how to actually make something move and make that movement controllable. I'm not sure what
+Evan and Xander have been up to, but I can always ask them. I hope they have some form of an activity log they keep somewhere, or use
+this one. Y'know, looking at past entries, I can see why past me hates present me right now...
+
 
 Evan:
 
