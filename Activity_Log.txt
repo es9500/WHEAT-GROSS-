@@ -25,6 +25,10 @@ but it'll be long enough to figure out how to actually make something move and m
 Evan and Xander have been up to, but I can always ask them. I hope they have some form of an activity log they keep somewhere, or use
 this one. Y'know, looking at past entries, I can see why past me hates present me right now...
 
+Monday, March 22, 2021
+Today I continue watching the C# tutorials, I'm grateful for recent past me for discovering these sacred files, dawning the Era of Corn. Soon all the code shall be blessed in
+cob. Jokes aside, I shall continue my crusade and hopefully learn enough C# to start on some project. I'm gonna let the group know my plan with the Godhunters project.
+
 
 Evan:
 
