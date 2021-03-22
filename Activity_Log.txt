@@ -41,3 +41,5 @@ Evan:
 
 
 Xander:
+Entry log 3/22/21
+So I have no idea what I am doing. The C# stuff is a bit too confusing for me, but im trying my best to manage these issues. I don't know if I've chosen the right class or not but I don't want to fail the team. I hope Alex makes me do more research than coding, because this crap sharpy suuucks
