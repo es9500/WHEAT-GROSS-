@@ -31,7 +31,8 @@ cob. Jokes aside, I shall continue my crusade and hopefully learn enough C# to s
 
 Tuesday, March 23, 2021
 Same stuff as yesterday, learn C#, make something, and go from there. I think my main problem will be implementing assets into projects, so I'll look for tutorials on that.
-No clue what everyone else is doing, but I'm at least 87% sure we're being productive... Maybe. Oh Magic Legends will be going open beta today! Can't wait!
+No clue what everyone else is doing, but I'm at least 87% sure we're being productive... Maybe. Oh Magic Legends will be going open beta today! Can't wait! Change of plans!
+We're making an Oompa Loompa shooter! Oh boy, this'll be just enjoyable. I hope we make it out alive, because by-golly am I losing patience!
 
 
 Evan:
