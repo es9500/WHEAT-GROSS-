@@ -34,6 +34,12 @@ Same stuff as yesterday, learn C#, make something, and go from there. I think my
 No clue what everyone else is doing, but I'm at least 87% sure we're being productive... Maybe. Oh Magic Legends will be going open beta today! Can't wait! Change of plans!
 We're making an Oompa Loompa shooter! Oh boy, this'll be just enjoyable. I hope we make it out alive, because by-golly am I losing patience!
 
+Thursday, March 25, 2021
+Well, I'm beginning the change in workflow as far as computers go. I'm gonna spend some of today installing and setting up the workspace for the laptop I take home with me
+so I can do work on Wednesdays and stop skipping days in this log. I have only seen Xander use this once, so I'll try and talk with Evan today to see if he can access and see
+any of this. I hope so, seeing as how Baker won't be looking near us on the distanced days. And then after that I'll just be doing project stuff, working with meshes, dragging stuff,
+and losing my mind as to why a sniper model won't work! Fun stuff today.
+
 
 Evan:
 
