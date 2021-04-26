@@ -69,6 +69,9 @@ Monday, April 12, 2021
 Amazing it has been 11 days since I touched this thing! Anyway, today I'll just take a look at some citation for Unity stuff, I'll actually try calling the group, make sure they're alive.
 Oh I need to put them in the microsoft team I made to save links of general importance to the project, make sure to emphasize the general importance part, don't want dumb memes in it.
 
+Monday, April 26, 2021
+Wow, exactly 14 days since I wrote in this, spectacular! Anyway, I made a text-based-RPG to get a sense of how coding damage tables will work, so I'll be focusde on that for some time.
+
 
 Evan:
 
