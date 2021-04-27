@@ -26,13 +26,19 @@ public class Main {
 				System.out.println("");
 				System.out.println("You decide to engage in diplomatic relations with the turtle and have agreed in alliance.");
 				System.out.println("Congrats! A turtle has joined your party. Enjoy it");
+				//insert code to actually add the turtle as a party member (Might be found in PetTurtle class)
 			}else if(decision.equalsIgnoreCase("Fight")){
 				System.out.println("");
 				System.out.println("You engage in combat with a turtle! Not sure why... But DEATH TO THE SOUP MIX!");
+				//insert the combat code (Might be found in enemy class) here
 			}else if(decision.equalsIgnoreCase("pass")){
 				System.out.println("");
 				System.out.println("Seeing the turtle, you know the bad times won't be bad, and move on, blessed by the turtle's presence.");
 			}
+			//Now for setting up some classes. We'll only need a Player class, a Turtle class, and a PetTurtle class. If you need any help with setting this up, take a look at the adv-objects assignment
+			//I'll work on getting some basic stats for the player, as well as combat initiation. All I ask is for whoever plans on working in the Turtle and PetTurtle Class, to give the turtle low health and high defense, as well as a poison debuff, or something.
+			//Now that I'm thinking about it, I think we should label all the hostile entities as enemies, and put the names and stats of each in that class... Lemme know what you guys think of that.
+
 		}
 		}
 
