@@ -72,6 +72,10 @@ Oh I need to put them in the microsoft team I made to save links of general impo
 Monday, April 26, 2021
 Wow, exactly 14 days since I wrote in this, spectacular! Anyway, I made a text-based-RPG to get a sense of how coding damage tables will work, so I'll be focusde on that for some time.
 
+Tuesday, April 27, 2021
+Made a dark joke today, and got shunned for it. Of course. When everyone else does it, all is well. I go for something bold, shame. People are oddities for sure. Anyway, today I'm working
+on the RPG I plan to use for combat code.
+
 
 Evan:
 
