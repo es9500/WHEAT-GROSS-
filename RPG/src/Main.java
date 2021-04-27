@@ -14,7 +14,7 @@ public class Main {
 		if(decision.equalsIgnoreCase("Look Around")){
 			System.out.println("");
 			System.out.println("Looking around, you awe at the majesty of a sign. This sign holds knowledge of the paths set before you.");
-			System.out.println("Examining the sign, you read that the right prong is only labeled as 'ADVENTURE!', and the left reads 'To Chamell");
+			System.out.println("Examining the sign, you read that the right prong is only labeled as 'ADVENTURE!', and the left reads 'To Chamell'");
 			System.out.println("Now that you are blessed by the knowledge of the sign, do you go right, or left?");
 		}decision = choice.nextLine();
 		if(decision.equalsIgnoreCase("Right")){
@@ -29,7 +29,10 @@ public class Main {
 			}else if(decision.equalsIgnoreCase("Fight")){
 				System.out.println("");
 				System.out.println("You engage in combat with a turtle! Not sure why... But DEATH TO THE SOUP MIX!");
-			}else if(decision.equalsIgnoreCase())
+			}else if(decision.equalsIgnoreCase("pass")){
+				System.out.println("");
+				System.out.println("Seeing the turtle, you know the bad times won't be bad, and move on, blessed by the turtle's presence.");
+			}
 		}
 		}
 
