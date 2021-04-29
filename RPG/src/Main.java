@@ -25,7 +25,7 @@ public class Main {
 			if(decision.equalsIgnoreCase("Examine")){
 				System.out.println("");
 				System.out.println("Examining the turtle, you realize that this is a very teeny turtle. Vary small. It is a miracle it got from the ocean to the forest.");
-				System.out.println("You determine, based on the fact that this tiny turtle isn't dead, that it quite durable, and would be a valuable ally.");
+				System.out.println("You determine, based on the fact that this tiny turtle isn't dead, that it is quite durable, and would be a valuable ally.");
 				System.out.println("Or a prized kill... So, do you befriend, fight, or pass this turtle?");
 			}decision = choice.nextLine();
 			if(decision.equalsIgnoreCase("Befriend")){
