@@ -8,7 +8,7 @@ public class Main {
 	System.out.println("This mission is to have the biggest numbers that ever numbered!");
 	System.out.println("To complete this mission; you will kill things, read words like an English Major, and play the ultimate game of pretend!");
 	System.out.println("");
-	System.out.println("Your journey begins on the road, and the first decision comes to you on a fork. Do you go left, or right?");
+	System.out.println("Your journey begins on the road, and the first decision comes to you on a fork. Do you go left, right, or look around?");
 		Scanner choice = new Scanner(System.in);
 		String decision = choice.nextLine();
 		if(decision.equalsIgnoreCase("Look Around")){

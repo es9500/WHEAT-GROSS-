@@ -29,4 +29,17 @@ private int getGold(){return gold;}
 
 
 
+
 }
+/**public void menu(Enemy enemy){
+ * Scanner console = new Scanner(System.in);
+ * while (true) {
+ *     System.out.println("What will you do? Fight, heal, or stat check?")
+ *
+ *     String answer = console.nextLine();
+ *     if(answer.equalsIgnoreCase("heal")
+ *     heal(); Side note: there will be a heal function
+ *     else if (answer.equalsIgnoreCase("attack")
+ * }
+ */
+ }
