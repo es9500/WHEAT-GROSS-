@@ -20,8 +20,14 @@ public class Main {
 		if(decision.equalsIgnoreCase("Right")){
 			System.out.println("");
 			System.out.println("Ah! An adventurer enters the realm! Taking the right prong, you find a turtle!");
-			System.out.println("Do you wish to befriend, fight, or pass this majestic creature?");
+			System.out.println("Do you wish to befriend, fight, examine, or pass this creature?");
 			decision = choice.nextLine();
+			if(decision.equalsIgnoreCase("Examine")){
+				System.out.println("");
+				System.out.println("Examining the turtle, you realize that this is a very teeny turtle. Vary small. It is a miracle it got from the ocean to the forest.");
+				System.out.println("You determine, based on the fact that this tiny turtle isn't dead, that it quite durable, and would be a valuable ally.");
+				System.out.println("Or a prized kill... So, do you befriend, fight, or pass this turtle?");
+			}decision = choice.nextLine();
 			if(decision.equalsIgnoreCase("Befriend")){
 				System.out.println("");
 				System.out.println("You decide to engage in diplomatic relations with the turtle and have agreed in alliance.");
