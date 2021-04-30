@@ -9,6 +9,7 @@ public class PetTurtle {
     private boolean potion;
     private double attack;
     private double Cannon;
+    private double CannonAoE;
 
     public PetTurtle(){
         health = 2;
@@ -18,6 +19,7 @@ public class PetTurtle {
         potion = false;
         attack = 711;
         Cannon = 2000000000;
+        //CannonAoE =FIXME
     }
 }
 //I've decided on something: PetTurtle is the only companion. THERE SHALL ONLY BE TINY TURTLE!
