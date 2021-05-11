@@ -103,7 +103,7 @@ public class Main {
 								}else if(decision.equalsIgnoreCase("pass")){
 									System.out.println("");
 									System.out.println("Seeing the turtle, you know the bad times won't be bad, and move on, blessed by the turtle's presence.");
-									System.out.println("The turtle follows you. You feel protected by his canon, much so that if you cross and evemy");
+									System.out.println("The turtle follows you. You feel protected by his canon, much so that if you cross an enemy");
 									System.out.println("he can just shoot a hole right through them.");
 							}
 						}
