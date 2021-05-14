@@ -33,6 +33,7 @@ public class Main {
 				System.out.println("You decide to engage in diplomatic relations with the turtle and have agreed in alliance.");
 				System.out.println("Congrats! A turtle has joined your party. Enjoy it");
 				//insert code to actually add the turtle as a party member (Might be found in PetTurtle class)
+
 			}else if(decision.equalsIgnoreCase("Fight")){
 				System.out.println("");
 				System.out.println("You engage in combat with a turtle! Not sure why... But DEATH TO THE SOUP MIX!");
